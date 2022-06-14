@@ -17,7 +17,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "ContactAppReact -d build",
+    "deploy": "contact-app -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
